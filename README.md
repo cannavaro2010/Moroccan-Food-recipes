@@ -10,6 +10,7 @@ on the last page of my website,a quick form to sign up and get notification of n
 I used a map link for a real coffee place,as I was not able to provide my own.
 All images came from external sources: Google Images, a Moroccan kitchen recipes website, and https://humandiaries.com/2015/09/23/moroccan-tagine/.
 The introducing video on the main page came from a YouTube vlog link: https://www.youtube.com/cookingwithalia
+screenshots of my first project ,are lsited on Moroccan Food Recipes file, with Readme,index.css ,index.html...
 
 
 
