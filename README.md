@@ -33,7 +33,7 @@ https://github.com/cannavaro2010/Moroccan-Food-recipes/blob/main/Screenshot%20fr
 https://github.com/cannavaro2010/Moroccan-Food-recipes/blob/main/Screenshot%20from%202023-06-07%2012-14-37.png
 ## Authors
 Cannavaro2010
-Email Addrres :abassir@hotmail.fr
+Email Address :abassir@hotmail.fr
 
 ## Help
 if you got any issues ,or need any information regardings this milestone project,
