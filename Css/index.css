@@ -27,10 +27,12 @@ border-radius: 15px;
 float: left;
 color: #f2f2f2;
 
-padding: 14px 10px 14px 180px ;
+padding: 14px 14px 14px 14px ;
 text-decoration: none;
 font-size: 17px;
 border-radius: 15px;
+margin-left: 10%;
+
 
 }
 .topnav a.active {
@@ -68,7 +70,7 @@ padding-right: 10px;}
 
 
 #glow {
-  font-size: xx-large;
+  font-size:xx-large;
   color: brown;
   text-align: center;
   animation: glow 1s ease-in-out infinite alternate;
