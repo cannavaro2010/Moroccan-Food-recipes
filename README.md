@@ -34,6 +34,7 @@ https://github.com/cannavaro2010/Moroccan-Food-recipes/blob/main/Screenshot%20fr
 ## Authors
 Cannavaro2010
 Email Address :abassir@hotmail.fr
+Project deployed link https://cannavaro2010.github.io/Moroccan-Food-recipes/index.html
 
 ## Help
 if you got any issues ,or need any information regardings this milestone project,
